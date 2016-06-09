@@ -1,8 +1,9 @@
-#botao{ text-align: center }
-.botaoEnviar{
+#botao{ 
+	text-align: center ;
     width: 350px;
     text-align: center;
     padding: 15px 20px;
     border: 1px solid #eee;
     border-radius: 6px;
-    background-color: #FCC302;
+    background-color: #00BFFF;
+}
